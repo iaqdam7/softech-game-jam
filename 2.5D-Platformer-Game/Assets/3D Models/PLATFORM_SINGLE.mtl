@@ -1,0 +1,19 @@
+# Rhino
+newmtl stone
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 0.0000 0.0000 0.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd rock_pitted_mossy_diff_2k.png
+map_Bump rock_pitted_mossy_disp_2k.png
+newmtl grass
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 0.0980 0.0980 0.0980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 25.5000
+map_Kd aerial_rocks_02_diff_4k.png
+map_Bump aerial_rocks_02_disp_4k.png
