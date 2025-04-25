@@ -20,6 +20,7 @@
 - 🔹 Immersive visuals and level design.
 - 🔹 Increasing challenge as platforms become more spaced and less predictable.
 - 🔹 Built in **Unity** with clean, modular code structure.
+- 🔹 Bake lightning ( for optimization) and real timt lighning set on player to get real time shadow update
 
 ---
 
